@@ -100,7 +100,7 @@ src/dnie_firmador/
 
 ## Licencia / License
 
-MIT © 2026 Jimmy Fernando Quintanilla Pérez
+MIT © 2026 dlocmot@gmail.com
 
 ---
 
